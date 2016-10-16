@@ -1,0 +1,72 @@
+/* CSS Document */
+.header{height:112px;background-color:#fbf9fa; border-bottom:2px solid #C5000B;}
+.header .top{ width:950px; height:112px; margin:0 auto;}
+.header .top .logo{ float:left; width:330px; overflow:hidden;}
+.header .top .logo img{ float:left; margin:6px 0 0 3px;}
+.header .top .logo h1{ float:left; font-size:36px;margin:20px 0 0 20px; height:46px; color:#580201;}
+.header .top .logo a{ float:left; font-size:18px; height:24px; margin-left:10px; color:#000;}
+.header .top .brand{ float:left; width:270px; margin:20px 0 0 120px; overflow:hidden;}
+.header .top .brand .outer1{ float:left; width:90px; text-align:center;}
+.header .top .brand .outer1 img{ margin:0 auto;}
+.header .top .brand .outer1 h1{ font-size:14px;}
+.header .top .ewm{ float:right; margin:5px 12px 0 0;}
+.focus{ background-color:#431f0f;}
+.focus .outer2{ width:950px; height:60px;margin:0 auto;}
+.focus a{ float:left; font-size:16px; line-height:60px; margin:0 20px; color:#FFF;}
+.content1{ height:455px; background:url(../img/images/dzx_03_02.png) repeat;}
+.content1 .center{ width:950px; height:455px; margin:0 auto;}
+.content1 .center img{ float:right;}
+.content1 .center img.split{ margin-top:85px;}
+.content1 .center .outer3{ width:500px; height:455px;}
+.content1 .center .outer3 h1{ font-size:14px; float:left; margin-top:25px;}
+.content1 .center .outer3 h1 em{ font-size:14px; color:#E4393C;}
+.content1 .center .outer3 .inner1{ border-bottom:1px solid #f1f0d4;width:500px; height:112px;}
+.content1 .center .outer3 .inner2{ border-bottom:1px solid #f1f0d4;width:500px; height:110px;}
+.content1 .center .outer3 .inner3{ border-bottom:1px solid #f1f0d4;width:500px; height:70px;}
+.content1 .center .outer3 .inner4{ border-bottom:1px solid #f1f0d4;width:500px;height:60px;}
+.content1 .center .outer3 .inner5{ border-bottom:1px solid #f1f0d4;width:500px;height:70px;}
+.content1 .center .outer4{ width:590px; height:455px; overflow:hidden;}
+.content1 .center .outer4 li{ float:left; height:50px; line-height:50px; width:590px;margin:20px 0 ;}
+.content1 .center .outer4 li span{ float:left; font-size:14px; margin-left:40px; width:80px; height:50px;}
+.content1 .center .outer4 li input{ float:left; height:30px; width:200px; margin-top:10px; border:1px solid #dddddd;}
+.content1 .center .outer4 li a{ float:left; background-color:#FEE1E3; color:#000; height:20px; line-height:20px; padding:0 5px; margin:15px 0 0 10px;}.content1 .center .outer4 li .inner6{ border:1px solid #000; width:80px; margin-left:80px; background-color:#FEE1E3; cursor:pointer;}
+.content1 .center .outer5{ width:500px;overflow:hidden;}
+.content1 .center .outer5 li{ float:left; width:500px;margin-top:20px; overflow:hidden;}
+.content1 .center .outer5 li img{ float:left; margin:10px 10px 0 10px;}
+.content1 .center .outer5 li h1{ float:left; width:400px; font-size:14px; margin-top:10px; color:#000;}
+.content1 .center .outer6{ width:500px;overflow:hidden;}
+.content1 .center .outer6 li{ float:left; width:500px;margin-top:30px; overflow:hidden;}
+.content1 .center .outer6 li img{ float:left; margin:10px 10px 0 10px;}
+.content1 .center .outer6 li h1{ float:left; width:400px;font-size:14px;   color:#000; margin-top:20px;}
+.content1 .center .outer7{ width:500px;overflow:hidden;}
+.content1 .center .outer7 li{ width:500px; height:45px; line-height:45px; text-align:center; margin-top:10px;}
+.content1 .center .outer7 li span{ font-size:14px;}
+.content1 .center .outer7 li input{ height:30px; width:150px; border:1px solid #dddddd;}
+.content1 .center .outer7 li a{ padding:5px 10px; font-size:14px; border:1px solid #dddddd; background-color:#fee1e3; color:#000; margin-right:20px;}
+.content1 .center .outer7 li.one{ height:50px;line-height:normal; text-align:left;}
+.content1 .center .outer7 li.two{ margin-top:30px; height:60px; line-height:normal; color:#e43968;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,380 @@
+/* CSS Document */
+.header{
+	height:150px;
+	background-color:#EEEBE8;
+	border-bottom:5px solid#000;
+}
+.header div{
+	width:990px;
+	margin:0 auto;
+	overflow:hidden;
+	
+}
+.header div .logo{
+	width:260px;
+	height:150px;
+	background:url(../img/SSD_03.png) no-repeat left;
+	float:left;
+}
+.header div .nav{
+	width:590px;
+	float:left;
+	margin-left:140px;
+}
+.header div .nav ul{
+	width:590px;
+	margin-top:75px;
+	overflow:hidden;
+}
+.header div .nav ul li{
+	width:74px;
+	height:40px;
+	float:left;
+	padding:0 5px;
+	text-align:center;
+	
+}
+.header div .nav ul li a{
+	color:#726c67;
+}
+.ad{
+	height:601px;
+	width:1317px;
+	margin:0 auto;
+}
+.info{
+	height:1530px;
+	background-color:#FFF;
+}
+.info div{
+	width:990px;
+	height:1530px;
+	margin:0 auto;
+}
+.info div .one{
+	width:990px;
+	height:477px;
+}
+.info div .two{
+	width:990px;
+	height:235px;
+}
+.info div .two ul {
+	overflow:hidden;
+	margin:15px 0;
+}
+.info div .two ul li{
+	width:330px;
+	height:205px;
+	float:left;
+	border-bottom:1px solid#D1D1D3;
+}
+.info div .three{
+	width:990px;
+	height:470px;
+}
+.info div .four{
+	width:990px;
+	height:290px;
+	background-color:#f0eff1;
+	
+}
+.info div .four .top{
+	height:15px;
+	margin-top:25px;
+	background-color:#000;
+}
+.info div .four .left{
+	width:575px;
+	height:250px;
+	float:left;
+	margin-left:15px;
+	
+}
+.info div .four .left ul{
+	overflow:hidden;
+	width:575px;
+}
+.info div .four .left ul li{
+	float:left;
+	height:250px;
+	width:142px;
+	border-right:solid #aaaaab 1px;
+	text-align:center;
+}
+.info div .four .left ul li h1{
+	border-bottom:solid #aaaaab 1px;
+	font-size:18px;
+	height:70px;
+	line-height:70px;
+	color:#5e5e5e;
+}
+.info div .four .left ul li a{
+	display:block;
+	font-size:12px;
+	color:#777777;
+}
+.info div .four .left ul li .split{
+	margin-top:5px;
+}
+.info div .four .center{
+	width:225px;
+	height:250px;
+	float:left;
+}
+.info div .four .center>div{
+	background:url(../img/SSD_23.png) no-repeat center;
+	height:90px;
+	width:225px;
+}
+
+.info div .four .center ul .I{
+	margin:35px 0 15px 40px;
+	text-align:left;
+	color:#999999;
+}
+.info div .four .center ul .II{
+	font-size:12px;
+	margin-left:40px;
+	text-align:left;
+}
+.info div .four .center ul .III{
+	margin:15px 0 0 40px;
+	text-align:left;
+	color:#999999;
+}
+.info div .four .center ul a{
+	font-size:12px;
+	color:#b1b1b2;
+}
+
+.info div .four .right{
+	width:175px;
+	height:250px;
+	float:left;
+}
+.info div .four .right .CP{
+	background:url(../img/SSD_25.png) no-repeat center;
+	height:120px;
+	width:175px;
+	border-bottom:1px solid#aaaaab;
+}
+.info div .four .right .AK{
+	background:url(../img/SSD_28.png) no-repeat center;
+	height:130px;
+	width:175px;
+	border-top:1px solid#aaaaab;
+}
+.focus{
+	height:2964px;
+	background-color:#FFF;
+}
+.focus div{
+	height:2964px;
+	width:990px;
+	margin:0 auto;
+}
+.focus div .banner1{
+	width:990px;
+	height:741px;
+}
+.focus div .banner1 div{
+	width:990px;
+	height:99px;
+	background:url(../img/SSD_56.png) no-repeat center #e7e5e6;
+}
+.focus div .banner1 ul{
+	overflow:hidden;
+	width:990px;
+	height:642px;
+}
+.focus div .banner1 ul li{
+	height:227px;
+	width:227px;
+	margin:15px 3.75px 0 0 ;
+	float:left;
+
+}
+.focus div .banner1 ul .woman{
+	height:642px;
+	width:294px;
+
+}
+.focus div .banner1 ul .money{
+	height:76px;
+	margin:0px 3.75px 0 0;
+	background:none;
+	text-align:center;
+}
+.focus div .banner2{
+	width:990px;
+	height:741px;
+}
+.focus div .banner2 div{
+	width:990px;
+	height:99px;
+	background:url(../img/SSD_56.png) no-repeat center #e7e5e6;
+}
+.focus div .banner2 ul{
+	overflow:hidden;
+	width:990px;
+	height:642px;
+}
+.focus div .banner2 ul li{
+	height:227px;
+	width:227px;
+	margin:15px 3.75px 0 0 ;
+	float:left;
+
+}
+.focus div .banner2 ul .woman{
+	height:642px;
+	width:294px;
+
+}
+.focus div .banner2 ul .money{
+	height:76px;
+	margin:0px 3.75px 0 0;
+	background:none;
+	text-align:center;
+}
+.focus div .banner3{
+	width:990px;
+	height:741px;
+}
+.focus div .banner3 div{
+	width:990px;
+	height:99px;
+	background:url(../img/SSD_56.png) no-repeat center #e7e5e6;
+}
+.focus div .banner3 ul{
+	overflow:hidden;
+	width:990px;
+	height:642px;
+}
+.focus div .banner3 ul li{
+	height:227px;
+	width:227px;
+	margin:15px 3.75px 0 0 ;
+	float:left;
+
+}
+.focus div .banner3 ul .woman{
+	height:642px;
+	width:294px;
+
+}
+.focus div .banner3 ul .money{
+	height:76px;
+	margin:0px 3.75px 0 0;
+	background:none;
+	text-align:center;
+}
+.focus div .banner4{
+	width:990px;
+	height:741px;
+}
+.focus div .banner4 div{
+	width:990px;
+	height:99px;
+	background:url(../img/SSD_56.png) no-repeat center #e7e5e6;
+}
+.focus div .banner4 ul{
+	overflow:hidden;
+	width:990px;
+	height:642px;
+}
+.focus div .banner4 ul li{
+	height:227px;
+	width:227px;
+	margin:15px 3.75px 0 0 ;
+	float:left;
+
+}
+.focus div .banner4 ul .woman{
+	height:642px;
+	width:294px;
+
+}
+.focus div .banner4 ul .money{
+	height:76px;
+	margin:0px 3.75px 0 0;
+	background:none;
+	text-align:center;
+}
+.footer{
+	height:150px;
+	background-color:#eae7e3;
+	border-top:5px solid#000;
+}
+.footer div{
+	width:990px;
+	height:150px;
+	margin:0 auto;
+	
+}
+.footer div .left{
+	height:150px;
+	width:270px;
+	float:left;
+	background:url(../img/SSD_60.png) no-repeat center;
+}
+.footer div .center{
+	width:315px;
+	float:left;
+	
+}
+.footer div .center ul{
+	width:234px;
+	height:78px;
+	overflow:hidden;
+	margin:50px 0 0 40px;
+}
+.footer div .center ul .one{
+	width:66px;
+	height:78px;
+	float:left;
+	margin-right:18px;
+}
+.footer div .center ul .two{
+	width:66px;
+	height:78px;
+	float:left;
+	margin-right:18px;
+}
+.footer div .center ul .three{
+	width:66px;
+	height:78px;
+	float:left;
+}
+.footer div .right{
+	height:150px;
+	width:405px;
+	float:left;
+}
+.footer div .right .top{
+	height:56px;
+	width:405px;
+	
+}
+.footer div .right .top ul{
+	width:405px;
+	height:56px;
+	overflow:hidden;
+	margin-top:20px;
+}
+.footer div .right .top ul li{
+	width:71px;
+	height:40px;
+	float:left;
+	padding:0 5px;
+	text-align:center;
+}
+.footer div .right .top ul li a{
+	color:#726c67;
+}
+.footer div .right .bottom{
+	height:74px;
+	width:405px;
+	background:url(../img/SSD_68.png) no-repeat center;
+}

@@ -1,0 +1,199 @@
+/* CSS Document */
+.header{
+	background-color:#232323;
+}
+.header div{
+	width:1350px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.header div .logo{
+	height:55px;
+	width:150px;
+	float:left;
+	background:url(../img/logo.png) no-repeat center;
+}
+.header div .nav{
+	width:350px;
+	float:left;
+	background-color:#232323;
+}
+.header .nav ul {
+	overflow:hidden;
+}
+.header .nav ul li{
+	height:55px;
+	width:70px;
+	float:left;
+	text-align:center;
+	line-height:55px;
+}
+.header .nav li.shoes{
+	width:40px;
+	margin-left:23px;
+}
+.header .nav li a{
+	color:#FFFFFF;
+}
+.header div .search{
+	height:55px;
+	width:350px;
+	float:right;
+	margin-right:65px;
+	background:url(../img/search.png) no-repeat center;
+}
+.header div .search input{
+	height:30px;
+	margin:10px 30px;
+	border:0px;
+	background-color:#e7e7e7;
+	color:#333333;
+}
+.header div .location{
+	height:55px;
+	width:100px;
+	float:right;
+	margin-right:25px;
+	line-height:55px;
+	text-align:right;
+}
+.header div .location a{
+	color:#FFF;
+}
+.ad{
+	height:475px;
+	background-color:#ededed;
+}
+.focus{
+	background-color:#FFF;
+}
+.focus div{/*居中容器*/
+	width:1070px;
+	margin:0 auto;
+}
+.focus div h1{
+	text-align:center;
+	height:50px;
+	line-height:50px;
+	font-size:16px;
+	color:#333333;
+}
+.focus div a{
+	color:#333333;
+}
+.products{
+	background-color:#ededed;
+}
+.products div{
+	width:1070px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.products div .shop li{
+	width:520px;
+	height:285px;
+	float:left;
+	background-color:#CF0;
+	margin:0 30px 30px 0;
+}
+.products div .shop .right{
+	margin:0 0 30px 0;
+}
+.products div .shop .bottom{
+	width:1070px;
+	height:455px;
+	margin:0 0 30px 0;
+}
+.products div .shop img{
+	border:0px;
+	display:block;
+}
+.info{
+	height:220px;
+	background-color:#FFFFFF;
+	border-bottom:1px solid #545454;
+}
+.info div{
+	width:820px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.info div .one{
+	height:220px;
+	width:130px;
+	float:left;
+}
+.info div .two{
+	height:220px;
+	width:110px;
+	float:left;
+	margin-left:100px;
+}
+.info div .three{
+	height:220px;
+	width:220px;
+	float:left;
+	margin-left:100px;
+
+}
+.info div .four{
+	height:220px;
+	width:55px;
+	float:left;
+	margin-left:100px;
+
+}
+.info div ul{
+	margin-top:65px;
+}
+.info div .one li{
+	font-size:12px;
+	text-align:left;
+	margin:10px 0;
+}
+.info div .two li{
+	font-size:12px;
+	text-align:right;
+	margin:10px 0;
+}
+.info div .three li{
+	font-size:12px;
+	margin:5px 0;
+}
+.info div .four li{
+	font-size:12px;
+	text-align:center;
+	margin:10px 0;
+}
+.info div li a{
+	color:#000;
+}
+.footer{
+	height:48px;
+	background-color:#FFFFFF;
+}
+.footer div{
+	width:820px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.footer div ul .one{
+	height:48px;
+	width:130px;
+	float:left;
+	font-size:12px;
+	margin-top:5px;
+}
+.footer div ul .two{
+	height:48px;
+	width:40px;
+	float:left;
+	margin-left:100px;
+}
+.footer div ul .three{
+	height:48px;
+	width:116px;
+	float:left;
+	font-size:12px;
+	margin-top:5px;
+}
